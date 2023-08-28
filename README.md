@@ -1,2 +1,2 @@
-# fuzzy-computing-machine
+# JMBrickert
 nic gdes
